@@ -1,7 +1,12 @@
 # Celeberity CopyPasta
-# Create your own CopyPasta meme with this generator
+# Create your own  Celebrity CopyPasta meme with this generator
 
 ## Usage
+Choose a Celebrity.
+A random location.
+An adjective.
+A weapon.
+Have fun.
 
 ## Sample Output using Ryan Gosling as a Celebrity 
 
